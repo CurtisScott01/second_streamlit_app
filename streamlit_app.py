@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title_('Merch Shop')
+streamlit.title('Merch Shop')
